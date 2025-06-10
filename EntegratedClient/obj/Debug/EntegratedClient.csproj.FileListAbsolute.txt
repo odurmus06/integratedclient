@@ -1,0 +1,12 @@
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\EntegratedClient.csproj.AssemblyReference.cache
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\EntegratedClient.MainForm.resources
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\EntegratedClient.Properties.Resources.resources
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\EntegratedClient.csproj.GenerateResource.cache
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\EntegratedClient.csproj.CoreCompileInputs.cache
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\bin\Debug\EntegratedClient.exe.config
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\bin\Debug\EntegratedClient.exe
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\bin\Debug\EntegratedClient.pdb
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\bin\Debug\MaterialSkin.dll
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\Entegrat.4D329214.Up2Date
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\EntegratedClient.exe
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\EntegratedClient.pdb
