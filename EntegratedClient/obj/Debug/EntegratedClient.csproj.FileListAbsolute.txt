@@ -10,3 +10,4 @@ C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\bin\Debug\Material
 C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\Entegrat.4D329214.Up2Date
 C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\EntegratedClient.exe
 C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\obj\Debug\EntegratedClient.pdb
+C:\Users\devel\source\repos\EntegratedClient\EntegratedClient\bin\Debug\MaterialSkin.pdb

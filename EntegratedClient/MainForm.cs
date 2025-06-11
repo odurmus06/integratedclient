@@ -31,6 +31,16 @@ namespace EntegratedClient
             materialSkinManager.AddFormToManage(this);
             materialSkinManager.Theme = MaterialSkinManager.Themes.LIGHT;
             materialSkinManager.ColorScheme = new ColorScheme(Primary.Indigo500, Primary.Indigo700, Primary.Indigo100, Accent.Pink200, TextShade.WHITE);
+
+            materialSkinManager.EnforceBackcolorOnAllComponents = false;
+            materialTextBox24.BackColor = Color.White; // ya da Color.Transparent
+
+
+
+
+     
+
+          
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -45,25 +55,9 @@ namespace EntegratedClient
 
         }
 
-    }
-}
-public class CustomMaterialTextBox : MaterialTextBox2
-{
-    private Color _customBackColor = Color.LightYellow;
-
-    public Color CustomBackColor
-    {
-        get => _customBackColor;
-        set
+        private void materialButton1_Click(object sender, EventArgs e)
         {
-            _customBackColor = value;
-            Invalidate(); // yeniden çizim tetiklenir
-        }
-    }
 
-    protected override void OnPaint(PaintEventArgs e)
-    {
-        base.OnPaint(e);
-        this.BackColor = _customBackColor; // arka plan uygulanır
+        }
     }
 }

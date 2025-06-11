@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MaterialSkin">
-      <HintPath>..\..\..\..\OneDrive\Masaüstü\Yeni klasör (2)\MaterialSkinExample\bin\Debug\MaterialSkin.dll</HintPath>
+    <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Downloads\Compressed\MaterialSkin-master\MaterialSkin-master\MaterialSkin\bin\Debug\MaterialSkin.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -84,22 +85,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="resources\osmx.png" />
-    <None Include="resources\background_strict_match_textbox_color.png" />
     <Content Include="resources\baseline_bluetooth_black_24dp.png" />
     <Content Include="resources\baseline_build_black_24dp.png" />
     <Content Include="resources\baseline_favorite_border_black_24dp.png" />
     <Content Include="resources\baseline_fingerprint_black_24dp.png" />
     <Content Include="resources\baseline_thumb_up_black_24dp.png" />
-    <None Include="resources\original_background_with_textbox_matched_color.png" />
-    <None Include="resources\original_background_with_adjusted_color.png" />
-    <None Include="resources\modified_login_panel.png" />
-    <None Include="resources\ChatGPT Image 1 Haz 2025 23_01_32.png" />
-    <None Include="resources\ChatGPT Image 1 Haz 2025 22_48_53.png" />
-    <None Include="resources\ChatGPT Image 1 Haz 2025 21_50_27.png" />
-    <None Include="resources\ChatGPT Image 1 Haz 2025 21_28_16.png" />
-    <None Include="resources\ChatGPT Image 1 Haz 2025 20_39_44.png" />
-    <None Include="resources\ChatGPT Image 1 Haz 2025 18_24_40.png" />
+    <None Include="resources\bg.png" />
     <Content Include="resources\minus.png" />
     <Content Include="resources\plus.png" />
     <Content Include="resources\round_add_black_24dp.png" />

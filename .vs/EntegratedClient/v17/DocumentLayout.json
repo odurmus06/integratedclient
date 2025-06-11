@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -14,8 +18,75 @@
       "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\round_swap_vert_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\round_swap_vert_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\round_http_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\round_http_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\round_gps_fixed_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\round_gps_fixed_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\round_build_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\round_build_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\round_bookmark_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\round_bookmark_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\round_bluetooth_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\round_bluetooth_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\round_backup_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\round_backup_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\round_assessment_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\round_assessment_white_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\round_add_black_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\round_add_black_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\plus.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\plus.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\baseline_thumb_up_black_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\baseline_thumb_up_black_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\minus.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\minus.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\baseline_build_black_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\baseline_build_black_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\resources\\baseline_favorite_border_black_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\resources\\baseline_favorite_border_black_24dp.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|C:\\Users\\devel\\source\\repos\\EntegratedClient\\entegratedclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|solutionrelative:entegratedclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90AEB5-91DD-42B5-8114-83C57EB30224}|EntegratedClient\\EntegratedClient.csproj|c:\\users\\devel\\source\\repos\\entegratedclient\\entegratedclient\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +96,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,43 +104,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EntegratedClient",
-              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\EntegratedClient.csproj",
-              "RelativeDocumentMoniker": "EntegratedClient\\EntegratedClient.csproj",
-              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\EntegratedClient.csproj",
-              "RelativeToolTip": "EntegratedClient\\EntegratedClient.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-02T10:30:08.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\MainForm.cs",
-              "RelativeDocumentMoniker": "EntegratedClient\\MainForm.cs",
-              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\MainForm.cs",
-              "RelativeToolTip": "EntegratedClient\\MainForm.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA0wEQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:28:58.261Z",
+              "DocumentIndex": 0,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "EntegratedClient\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\Properties\\Resources.resx",
+              "RelativeToolTip": "EntegratedClient\\Properties\\Resources.resx",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAhwHoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-11T22:48:12.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\Program.cs",
-              "RelativeDocumentMoniker": "EntegratedClient\\Program.cs",
-              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\Program.cs",
-              "RelativeToolTip": "EntegratedClient\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:28:49.843Z"
+              "DocumentIndex": 4,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\MainForm.resx",
+              "RelativeDocumentMoniker": "EntegratedClient\\MainForm.resx",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\MainForm.resx",
+              "RelativeToolTip": "EntegratedClient\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-11T22:47:36.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "round_swap_vert_white_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_swap_vert_white_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\round_swap_vert_white_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_swap_vert_white_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\round_swap_vert_white_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:26.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\MainForm.cs",
               "RelativeDocumentMoniker": "EntegratedClient\\MainForm.cs",
@@ -78,6 +150,212 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T12:25:44.523Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntegratedClient",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\EntegratedClient.csproj",
+              "RelativeDocumentMoniker": "EntegratedClient\\EntegratedClient.csproj",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\EntegratedClient.csproj",
+              "RelativeToolTip": "EntegratedClient\\EntegratedClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-02T10:30:08.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "round_http_white_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_http_white_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\round_http_white_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_http_white_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\round_http_white_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:24.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "EntegratedClient\\MainForm.cs",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\MainForm.cs",
+              "RelativeToolTip": "EntegratedClient\\MainForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:28:58.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "EntegratedClient\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\MainForm.Designer.cs",
+              "RelativeToolTip": "EntegratedClient\\MainForm.Designer.cs",
+              "ViewState": "AgIAACEDAAAAAAAAAAAMwC8DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:28:40.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "round_gps_fixed_white_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_gps_fixed_white_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\round_gps_fixed_white_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_gps_fixed_white_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\round_gps_fixed_white_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:22.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "round_build_white_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_build_white_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\round_build_white_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_build_white_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\round_build_white_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:20.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "round_bookmark_white_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_bookmark_white_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\round_bookmark_white_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_bookmark_white_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\round_bookmark_white_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:17.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "round_bluetooth_white_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_bluetooth_white_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\round_bluetooth_white_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_bluetooth_white_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\round_bluetooth_white_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:16.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "round_backup_white_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_backup_white_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\round_backup_white_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_backup_white_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\round_backup_white_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:14.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "round_assessment_white_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_assessment_white_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\round_assessment_white_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_assessment_white_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\round_assessment_white_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:13.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "round_add_black_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_add_black_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\round_add_black_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\round_add_black_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\round_add_black_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:10.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "plus.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\plus.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\plus.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\plus.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\plus.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:45:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "baseline_thumb_up_black_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\baseline_thumb_up_black_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\baseline_thumb_up_black_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\baseline_thumb_up_black_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\baseline_thumb_up_black_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:44:56.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "minus.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\minus.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\minus.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\minus.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\minus.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:44:54.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "baseline_build_black_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\baseline_build_black_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\baseline_build_black_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\baseline_build_black_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\baseline_build_black_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:44:51.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "baseline_favorite_border_black_24dp.png",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\baseline_favorite_border_black_24dp.png",
+              "RelativeDocumentMoniker": "EntegratedClient\\resources\\baseline_favorite_border_black_24dp.png",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\resources\\baseline_favorite_border_black_24dp.png",
+              "RelativeToolTip": "EntegratedClient\\resources\\baseline_favorite_border_black_24dp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-11T22:44:49.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\Program.cs",
+              "RelativeDocumentMoniker": "EntegratedClient\\Program.cs",
+              "ToolTip": "C:\\Users\\devel\\source\\repos\\EntegratedClient\\EntegratedClient\\Program.cs",
+              "RelativeToolTip": "EntegratedClient\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:28:49.843Z"
             }
           ]
         }
